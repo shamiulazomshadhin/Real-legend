@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "kailla",
+    "username": "cutiepie",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "i like to afk",
+        "i love you mwah",
         "Subscribe and like",
         "join our discord https://discord.gg/kpBudp6tmh"
       ]

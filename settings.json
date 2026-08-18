@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "cute",
+    "username": "wanna pvp w me noobzz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "kaillasmpseason1.aternos.me",
-    "port": 38462,
+    "ip": "pvppractice121.aternos.me",
+    "port": 15534,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "i love you",
-        "Subscribe and like",
-        "join our discord https://discord.gg/kpBudp6tmh"
+        "unemployed final boss",
+        "Shadhin amar bap",
+        "shadhin er kamla ami"
       ]
     },
     "chat-log": true,
